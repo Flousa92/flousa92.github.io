@@ -57,6 +57,7 @@
 
 .reportTable td {
   color: #000000;
+  background-color: #f1f2f2;
   vertical-align: super;
   padding: 5px;
   /*background: #FFFFFF;*/
