@@ -51,14 +51,14 @@
   /* font-size: 10px;  */
   /* height: 25px; */
   padding: 5px;
-  text-align: center;
+  vertical-align: middle;
 
   /* Add customization here  */
 }
 
 .reportTable td {
   color: #000000;
-  background-color: #f1f2f2;
+  background-color: ##000000;
   vertical-align: super;
   padding: 5px;
   /*background: #FFFFFF;*/
